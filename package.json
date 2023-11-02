@@ -1,0 +1,12 @@
+{
+  "name": "backend-go",
+  "version": "1.0.0",
+  "description": "A simple Golang app",
+  "main": "main.go",
+  "scripts": {
+    "start": "go run main.go"
+  },
+  "dependencies": {
+    "golang": "^1.18"
+  }
+}
